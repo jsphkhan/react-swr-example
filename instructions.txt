@@ -12,6 +12,7 @@ json-server was installed globally
 
 Github repo:
 ------------
+https://github.com/jsphkhan/react-swr-example
 
 
 Tutorials:
