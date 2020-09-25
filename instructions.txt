@@ -21,6 +21,7 @@ https://github.com/jsphkhan/react-swr-example
 
 Tutorials:
 ----------
+Bruno Antunes - https://www.youtube.com/watch?v=a7JigiLw_OY
 https://swr.vercel.app/getting-started
 https://juliangaramendy.dev/react-state-management-2020/
 https://sergiodxa.com/articles/type-states-client-side-app
