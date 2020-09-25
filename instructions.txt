@@ -1,12 +1,16 @@
 This is a CRA ReactJS example that uses SWR library to cache API data
 
-SWR - Stale while revalidate
+SWR - Stale while revalidate. React Hooks library for data fetching. 
+SWR is a strategy to first return the data from cache (stale), then 
+send the fetch request (revalidate), and finally come with the up-to-date data.
+
 SWR is a library from NextJS - https://swr.vercel.app/
 
 API data
 --------
 For backend API data I am using Fake JSON Server
 Start Fake JSON Server (for Books Data): json-server --watch books.json --port 3004
+Or use npm script: npm run fake-api
 
 json-server was installed globally
 
@@ -17,6 +21,7 @@ https://github.com/jsphkhan/react-swr-example
 
 Tutorials:
 ----------
+https://swr.vercel.app/getting-started
 https://juliangaramendy.dev/react-state-management-2020/
 https://sergiodxa.com/articles/type-states-client-side-app
 https://medium.com/better-programming/why-you-should-be-separating-your-server-cache-from-your-ui-state-1585a9ae8336
